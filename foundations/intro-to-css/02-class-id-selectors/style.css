@@ -1,3 +1,5 @@
+
+/* didnt have to group the .cooler class with .odd */
 .odd, .cooler{
     background-color: #cd5c5c;
     font-family: Verdana, "DejaVu Sans", sans-serif;
